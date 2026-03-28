@@ -32,6 +32,7 @@ O conjunto de dados foi estruturado em formato JSON (`dados_enem.json`) contendo
   "NotaSimulado": 750,
   "NotaENEM": 720
 }
+```
 
 ## 📈 Resultados
 O modelo apresentou capacidade de generalização para novos dados, realizando predições consistentes com base nos padrões aprendidos durante o treinamento.
